@@ -1,0 +1,17 @@
+{
+	"content": {
+		"root": "public/content",
+		"index": "docs/the-story-of-mel/codex"
+	},
+	"locale": {
+		"root": "yaspp/locales",
+		"langs": ["he", "en"],
+		"pages": {
+			"*": ["authors", "glossary"]
+		}
+	},
+	"styles": {
+		"root": "yaspp/styles",
+		"index": "mel-site.scss"
+	}
+}
