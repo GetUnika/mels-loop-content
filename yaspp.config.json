@@ -3,6 +3,9 @@
 		"root": "public/content",
 		"index": "docs/the-story-of-mel/codex"
 	},
+	"nav": {
+		"index": "yaspp/nav.json"
+	},
 	"locale": {
 		"root": "yaspp/locales",
 		"langs": ["he", "en"],
@@ -13,5 +16,8 @@
 	"styles": {
 		"root": "yaspp/styles",
 		"index": "mel-site.scss"
+	},
+	"assets": {
+		"root": "public/assets"
 	}
 }
